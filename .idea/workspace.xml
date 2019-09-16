@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a6235e0-c67b-4a0e-90b4-21e86dad327b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/3.c55151cc7b2c691d84fe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/3.c55151cc7b2c691d84fe.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/4.dde597c69d5bf4f69402.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/4.dde597c69d5bf4f69402.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/5.f0ffbea60f46bc84041f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/5.f0ffbea60f46bc84041f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/6.2f407252c1c4e641e15c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/6.2f407252c1c4e641e15c.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/7.f06ead1af00d5a4fd171.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/7.f06ead1af00d5a4fd171.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/8.54ad5d41a3fb39eccfd7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/8.54ad5d41a3fb39eccfd7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/9.106d038bac1bfb462c32.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/9.106d038bac1bfb462c32.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.5d776dc6136439587e76.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.5d776dc6136439587e76.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/manifest.4fceb9878999f143397e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/manifest.4fceb9878999f143397e.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3a6235e0-c67b-4a0e-90b4-21e86dad327b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,7 +20,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="120" selection-start-line="3" selection-start-column="120" selection-end-line="3" selection-end-column="120" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,10 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="2" />
-    <option name="width" value="1062" />
-    <option name="height" value="744" />
+    <option name="x" value="117" />
+    <option name="width" value="1378" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,6 +74,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\农经所项目\dist" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -123,17 +106,25 @@
       <workItem from="1568259957161" duration="569000" />
       <workItem from="1568272221545" duration="578000" />
       <workItem from="1568458487060" duration="569000" />
-      <workItem from="1568520013463" duration="216000" />
+      <workItem from="1568520013463" duration="1032000" />
     </task>
+    <task id="LOCAL-00001" summary="修复刷新角色分配bug，调整添加用户排版">
+      <created>1568520365530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568520365530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2842000" />
+    <option name="totallyTimeSpent" value="3658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="2" width="1062" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19024856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14568081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,12 +146,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修复刷新角色分配bug，调整添加用户排版" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复刷新角色分配bug，调整添加用户排版" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/0.c790409dadf0fa7b5892.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="120" selection-start-line="3" selection-start-column="120" selection-end-line="3" selection-end-column="120" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
